@@ -1,0 +1,180 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ValeriaRP.github.io/Myportfolio" resolutions="1x" timestamp="1530654323947">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-p_g_-maestra.css" crc="4155280170" ref="contáctame:fotografía:index:publicidad:todos:sobre-mi:diseño"/>
+    <file name="cont_ctame.css" crc="3874791879" ref="contáctame"/>
+    <file name="fotograf_a.css" crc="284099688" ref="fotografía"/>
+    <file name="index.css" crc="4082327720" ref="index"/>
+    <file name="publicidad.css" crc="3800043288" ref="publicidad"/>
+    <file name="todos.css" crc="4043659397" ref="todos"/>
+    <file name="sobre-mi.css" crc="4220260499" ref="sobre-mi"/>
+    <file name="dise_o.css" crc="3998998944" ref="diseño"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:todos:diseño:fotografía:publicidad:sobre-mi:contáctame"/>
+    <file name="museutils.js" crc="3803043152" ref="index:todos:diseño:fotografía:publicidad:sobre-mi:contáctame"/>
+    <file name="whatinput.js" crc="86476730" ref="index:todos:diseño:fotografía:publicidad:sobre-mi:contáctame"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:todos:diseño:fotografía:publicidad:sobre-mi:contáctame"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:todos:diseño:fotografía:publicidad:sobre-mi:contáctame"/>
+    <file name="webpro.js" crc="242022427" ref="index:todos:diseño:fotografía:publicidad:sobre-mi:contáctame"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index:todos:diseño:fotografía:publicidad:sobre-mi:contáctame"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:todos:diseño:fotografía:publicidad:sobre-mi:contáctame"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:todos:diseño:fotografía:publicidad:sobre-mi:contáctame"/>
+    <file name="require.js" crc="4157109226" ref="index:todos:diseño:fotografía:publicidad:sobre-mi:contáctame"/>
+  </folder>
+  <folder name="images">
+    <file name="svgs-03.svg" crc="4150715527" seo="true" ref="index:todos:diseño:fotografía:publicidad:sobre-mi:contáctame">
+      <caption webpage="publicidad" alt=""/>
+      <caption webpage="fotografía" alt=""/>
+      <caption webpage="contáctame" alt=""/>
+      <caption webpage="sobre-mi" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="todos" alt=""/>
+      <caption webpage="diseño" alt=""/>
+    </file>
+    <file name="svgs-03_poster_.png" crc="389773092" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="svgs-09.svg" crc="88029451" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svgs-09_poster_.png" crc="145602448" ref="index"/>
+    <file name="f6.jpg" crc="4027912475" seo="true" ref="todos:fotografía">
+      <caption webpage="fotografía" alt=""/>
+      <caption webpage="todos" alt=""/>
+    </file>
+    <file name="p6.jpg" crc="3949857111" seo="true" ref="todos:publicidad">
+      <caption webpage="publicidad" alt=""/>
+      <caption webpage="todos" alt=""/>
+    </file>
+    <file name="f5.jpg" crc="75502370" seo="true" ref="todos:fotografía">
+      <caption webpage="fotografía" alt=""/>
+      <caption webpage="todos" alt=""/>
+    </file>
+    <file name="surrealista 3.jpg" crc="4005453283" seo="true" ref="todos">
+      <caption webpage="todos" alt=""/>
+    </file>
+    <file name="valeria rivero - suicide squad .jpg" crc="4178038959" seo="true" ref="todos">
+      <caption webpage="todos" alt=""/>
+    </file>
+    <file name="f8.jpg" crc="4203614994" seo="true" ref="todos:fotografía">
+      <caption webpage="fotografía" alt=""/>
+      <caption webpage="todos" alt=""/>
+    </file>
+    <file name="rgb sello.jpg" crc="484270745" seo="true" ref="todos">
+      <caption webpage="todos" alt=""/>
+    </file>
+    <file name="p3.jpg" crc="4057205630" seo="true" ref="todos:publicidad">
+      <caption webpage="publicidad" alt=""/>
+      <caption webpage="todos" alt=""/>
+    </file>
+    <file name="caja pizza raul.jpg" crc="3842732265" seo="true" ref="todos">
+      <caption webpage="todos" alt=""/>
+    </file>
+    <file name="f4.jpg" crc="3978928343" seo="true" ref="todos:fotografía">
+      <caption webpage="fotografía" alt=""/>
+      <caption webpage="todos" alt=""/>
+    </file>
+    <file name="f2.jpg" crc="3844497078" seo="true" ref="todos:fotografía">
+      <caption webpage="fotografía" alt=""/>
+      <caption webpage="todos" alt=""/>
+    </file>
+    <file name="p1.jpg" crc="89190905" seo="true" ref="todos:publicidad">
+      <caption webpage="publicidad" alt=""/>
+      <caption webpage="todos" alt=""/>
+    </file>
+    <file name="p2.jpg" crc="3842627247" seo="true" ref="todos:publicidad">
+      <caption webpage="publicidad" alt=""/>
+      <caption webpage="todos" alt=""/>
+    </file>
+    <file name="f3.jpg" crc="311200103" seo="true" ref="todos:fotografía">
+      <caption webpage="fotografía" alt=""/>
+      <caption webpage="todos" alt=""/>
+    </file>
+    <file name="f1.jpg" crc="3830919326" seo="true" ref="todos:fotografía">
+      <caption webpage="fotografía" alt=""/>
+      <caption webpage="todos" alt=""/>
+    </file>
+    <file name="teselado-01.jpg" crc="531209299" seo="true" ref="todos">
+      <caption webpage="todos" alt=""/>
+    </file>
+    <file name="f7.jpg" crc="90016193" seo="true" ref="todos">
+      <caption webpage="todos" alt=""/>
+    </file>
+    <file name="p4.jpg" crc="491222906" seo="true" ref="todos">
+      <caption webpage="todos" alt=""/>
+    </file>
+    <file name="d7.jpg" crc="4246859491" seo="true" ref="diseño">
+      <caption webpage="diseño" alt=""/>
+    </file>
+    <file name="d4.jpg" crc="133366211" seo="true" ref="diseño">
+      <caption webpage="diseño" alt=""/>
+    </file>
+    <file name="d2.jpg" crc="21585896" seo="true" ref="diseño">
+      <caption webpage="diseño" alt=""/>
+    </file>
+    <file name="d6.jpg" crc="4017275396" seo="true" ref="diseño">
+      <caption webpage="diseño" alt=""/>
+    </file>
+    <file name="d3.jpg" crc="4215606715" seo="true" ref="diseño">
+      <caption webpage="diseño" alt=""/>
+    </file>
+    <file name="d1.jpg" crc="143224080" seo="true" ref="diseño">
+      <caption webpage="diseño" alt=""/>
+    </file>
+    <file name="d5.jpg" crc="181254710" seo="true" ref="diseño">
+      <caption webpage="diseño" alt=""/>
+    </file>
+    <file name="f7373x249.jpg" crc="443674833" seo="true" ref="fotografía">
+      <caption webpage="fotografía" alt=""/>
+    </file>
+    <file name="p5.jpg" crc="3963540845" seo="true" ref="publicidad">
+      <caption webpage="publicidad" alt=""/>
+    </file>
+    <file name="p4374x267.jpg" crc="4199157158" seo="true" ref="publicidad">
+      <caption webpage="publicidad" alt=""/>
+    </file>
+    <file name="adobe-illustrator.svg" crc="220074824" seo="true" ref="sobre-mi">
+      <caption webpage="sobre-mi" alt=""/>
+    </file>
+    <file name="adobe-illustrator_poster_.png" crc="4049956669" ref="sobre-mi"/>
+    <file name="checked.svg" crc="454946811" seo="true" ref="sobre-mi">
+      <caption webpage="sobre-mi" alt=""/>
+    </file>
+    <file name="checked_poster_.png" crc="74351995" ref="sobre-mi"/>
+    <file name="actitud-2.svg" crc="138218869" seo="true" ref="sobre-mi">
+      <caption webpage="sobre-mi" alt=""/>
+    </file>
+    <file name="actitud 2_poster_.png" crc="4212650655" ref="sobre-mi"/>
+    <file name="adobe-photoshop.svg" crc="4126687271" seo="true" ref="sobre-mi">
+      <caption webpage="sobre-mi" alt=""/>
+    </file>
+    <file name="adobe-photoshop_poster_.png" crc="3917219068" ref="sobre-mi"/>
+    <file name="adobe-indesign.svg" crc="4175940594" seo="true" ref="sobre-mi">
+      <caption webpage="sobre-mi" alt=""/>
+    </file>
+    <file name="adobe-indesign_poster_.png" crc="103826632" ref="sobre-mi"/>
+    <file name="creativity-2.svg" crc="4148191161" seo="true" ref="sobre-mi">
+      <caption webpage="sobre-mi" alt=""/>
+    </file>
+    <file name="creativity 2_poster_.png" crc="523977069" ref="sobre-mi"/>
+    <file name="analisis-2.svg" crc="4213347392" seo="true" ref="sobre-mi">
+      <caption webpage="sobre-mi" alt=""/>
+    </file>
+    <file name="analisis 2_poster_.png" crc="450828214" ref="sobre-mi"/>
+    <file name="clientes-satisfechos.svg" crc="4129058674" seo="true" ref="sobre-mi">
+      <caption webpage="sobre-mi" alt=""/>
+    </file>
+    <file name="clientes satisfechos_poster_.png" crc="3911473480" ref="sobre-mi"/>
+    <file name="time.svg" crc="4132478583" seo="true" ref="sobre-mi">
+      <caption webpage="sobre-mi" alt=""/>
+    </file>
+    <file name="time_poster_.png" crc="4008903265" ref="sobre-mi"/>
+  </folder>
+  <file name="index.html" crc="335813024" seo="true" mt="1530651147800" redirect="true"/>
+  <file name="todos.html" crc="4287169274" seo="true" mt="1530650149639" redirect="true"/>
+  <file name="diseño.html" crc="3982989848" seo="true" mt="1530650149639" redirect="true"/>
+  <file name="fotografía.html" crc="3923782064" seo="true" mt="1530650149639" redirect="true"/>
+  <file name="publicidad.html" crc="365914205" seo="true" mt="1530650149639" redirect="true"/>
+  <file name="sobre-mi.html" crc="4235868961" seo="true" mt="1530653402383" redirect="true"/>
+  <file name="contáctame.html" crc="3937087011" seo="true" mt="1530650149639" redirect="true"/>
+</manifest>

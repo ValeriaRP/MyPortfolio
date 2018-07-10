@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://ValeriaRP.github.io/Myportfolio/index.html</loc>
-    <lastmod>2018-07-03</lastmod>
+    <lastmod>2018-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -14,200 +14,296 @@
   </url>
   <url>
     <loc>http://ValeriaRP.github.io/Myportfolio/todos.html</loc>
-    <lastmod>2018-07-03</lastmod>
+    <lastmod>2018-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://ValeriaRP.github.io/Myportfolio/images/svgs-03.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f6.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/p6.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f5.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/surrealista%203.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/valeria%20rivero%20-%20suicide%20squad%20.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f8.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/rgb%20sello.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/p3.jpg</image:loc>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f6374x523.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://ValeriaRP.github.io/Myportfolio/images/caja%20pizza%20raul.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f4.jpg</image:loc>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/p3373x530.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f2.jpg</image:loc>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f4351x467.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/p1.jpg</image:loc>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/p6393x270.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/p2.jpg</image:loc>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/p2375x524.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f3.jpg</image:loc>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f1392x524.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f1.jpg</image:loc>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f5353x495.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f2374x299.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/surrealista%203.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/p1349x496.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://ValeriaRP.github.io/Myportfolio/images/teselado-01.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/valeria%20rivero%20-%20suicide%20squad%20.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f8375x268.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f3372x248.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://ValeriaRP.github.io/Myportfolio/images/p4.jpg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://ValeriaRP.github.io/Myportfolio/dise%C3%B1o.html</loc>
-    <lastmod>2018-07-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/svgs-03.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/d7.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/d4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/d2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/d6.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/d3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/d1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/d5.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://ValeriaRP.github.io/Myportfolio/fotograf%C3%ADa.html</loc>
-    <lastmod>2018-07-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/svgs-03.svg</image:loc>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/rgb%20sello.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f6.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f5.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f8.jpg</image:loc>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/p3.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f4.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f7373x249.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://ValeriaRP.github.io/Myportfolio/publicidad.html</loc>
-    <lastmod>2018-07-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/svgs-03.svg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://ValeriaRP.github.io/Myportfolio/images/p6.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/p3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/p1.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://ValeriaRP.github.io/Myportfolio/images/p2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/p5.jpg</image:loc>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/p4374x267.jpg</image:loc>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/p1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f3.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://ValeriaRP.github.io/Myportfolio/sobre-mi.html</loc>
-    <lastmod>2018-07-03</lastmod>
+    <loc>http://ValeriaRP.github.io/Myportfolio/dise%C3%B1o.html</loc>
+    <lastmod>2018-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://ValeriaRP.github.io/Myportfolio/images/svgs-03.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/adobe-illustrator.svg</image:loc>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/d7373x523.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/checked.svg</image:loc>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/d4.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/actitud-2.svg</image:loc>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/d2373x264.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/adobe-photoshop.svg</image:loc>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/d6374x528.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/adobe-indesign.svg</image:loc>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/d3375x530.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/creativity-2.svg</image:loc>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/d1376x283.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/analisis-2.svg</image:loc>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/d5.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/clientes-satisfechos.svg</image:loc>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/d7.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/time.svg</image:loc>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/d2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/d3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/d6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/d1.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://ValeriaRP.github.io/Myportfolio/fotograf%C3%ADa.html</loc>
+    <lastmod>2018-07-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/svgs-03.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f7373x249.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f4372x496.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f8371x266.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f2373x299.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f6373x521.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f1374x499.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/f5375x525.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://ValeriaRP.github.io/Myportfolio/publicidad.html</loc>
+    <lastmod>2018-07-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/svgs-03.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/p4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/p3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/p6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/p2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/p1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/p5372x280.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/p3375x531.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/p2373x523.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/p6373x257.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/p4377x269.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/p1374x531.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/p5.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://ValeriaRP.github.io/Myportfolio/cont%C3%A1ctame.html</loc>
-    <lastmod>2018-07-03</lastmod>
+    <lastmod>2018-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://ValeriaRP.github.io/Myportfolio/images/svgs-03.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/sin-t%C3%ADtulo-1_mesa-de-trabajo-1.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/sin-t%C3%ADtulo-1-02.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://ValeriaRP.github.io/Myportfolio/sobre-mi.html</loc>
+    <lastmod>2018-07-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/svgs-03.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/sin-t%C3%ADtulo-1_mesa-de-trabajo-12.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/sin-t%C3%ADtulo-1-04.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/sin-t%C3%ADtulo-1-07.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/13575812_10153922728903472_7860067436497104986_o-crop-u3731.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/sin-t%C3%ADtulo-1-022.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/sin-t%C3%ADtulo-1-03.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/sin-t%C3%ADtulo-1-05.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/sin-t%C3%ADtulo-1-06.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/sin-t%C3%ADtulo-1-09.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ValeriaRP.github.io/Myportfolio/images/sin-t%C3%ADtulo-1-08.svg</image:loc>
     </image:image>
   </url>
 </urlset>
